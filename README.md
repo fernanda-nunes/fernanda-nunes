@@ -8,6 +8,10 @@
     
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernanda-nunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-nunes&layout=compact&langs_count=6&theme=radical"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernanda-nunes"/>
+<img height="180em" src="https://github.com/fernanda-nunes/github-readme-stats"/>
+
   
 </div>
 <div style="display: inline_block"><br>
