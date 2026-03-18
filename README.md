@@ -4,7 +4,7 @@
   <a href="https://github.com/fernanda-nunes">
   
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afernanda-nunes&theme=tokyonight_icons=true)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afernanda-nunes&theme=radical&include_all_commits=true&count_private=true"/>
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernanda-nunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-nunes&layout=compact&langs_count=6&theme=radical"/>
