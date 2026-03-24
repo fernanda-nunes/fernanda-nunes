@@ -23,6 +23,6 @@
   <a href="https://www.linkedin.com/in/fernanda-nunes-5a788466" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
    
-  ![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/fernanda-nunes/blob/output/github-contribution-grid-snake.svg)
 
 </div>
