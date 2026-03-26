@@ -1,13 +1,10 @@
-<h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=90&duration=4000&lines=Olá!+👋;+Sou+Fernanda+Nunes!;"/>
-</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lora&size=35&duration=3000&pause=50&color=8922E9&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Ol%C3%A1!+%F0%9F%91%8B+;Sou+Fernanda+Nunes+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Seja+bem-vindo(a)+!)](https://git.io/typing-svg)
 
-## Bem-vindo(a) ao meu perfil
 
-<div align="center">
+<div >
    <a href="https://github.com/fernanda-nunes">
-   <img height="180em" src="https://github-readme-stats-eta-seven.vercel.app/api?username=fernanda-nunes&show_icons=true&include_all_commits=true&line_height=20&theme=dracula&count_private=true" />
-   <img height="180em" src="https://github-readme-stats-eta-seven.vercel.app/api/top-langs/?username=fernanda-nunes&layout=compact&langs_count=200&theme=dracula&cache_seconds=0&rand=17378"/>
+   <img height="160em" src="https://github-readme-stats-eta-seven.vercel.app/api?username=fernanda-nunes&show_icons=true&include_all_commits=true&line_height=20&theme=dracula&count_private=true" />
+   <img height="160em" src="https://github-readme-stats-eta-seven.vercel.app/api/top-langs/?username=fernanda-nunes&layout=compact&langs_count=200&theme=dracula&cache_seconds=0&rand=17378"/>
 </div>
     
 <div align="center" style="display: inline_block"><br>
