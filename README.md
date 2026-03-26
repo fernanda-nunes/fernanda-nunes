@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Lora&size=35&duration=3000&pause=50&color=8922E9&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Ol%C3%A1!+%F0%9F%91%8B+;Sou+Fernanda+Nunes+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Seja+bem-vindo(a)+!" alt="Typing SVG"/></h2>
 
 <div align="center" style="display: inline_block">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fernanda-nunes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fernanda-nunes&theme=cobalt&show_icons=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-nunes&layout=compact&langs_count=200&theme=cobalt"/>
 </div>
 
