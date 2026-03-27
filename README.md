@@ -3,6 +3,7 @@
 
 <div align="center" style="display: inline_block">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernanda-nunes&theme=cobalt&show_icons=true"/>
+   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-nunes&layout=compact&langs_count=200&theme=cobalt"/>
 </div>
 
