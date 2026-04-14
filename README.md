@@ -12,7 +12,36 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
  <br>
+
+  ### GitHub Pages:
+
+<div align="center" style="display: inline_block"><br>
+<a href="3" target="_blank"> 
+   <p src="#">page-huddle-landing-frontend-mentor</p>
+   </a>
+
+   <a href="3" target="_blank"> 
+   <p src="#">advice-generator-app-frontend-mentor</p>
+   </a>
+
+    <a href="3" target="_blank"> 
+   <p src="#">formulario-com-validacao</p>
+   </a>
+
+   <a href="3" target="_blank"> 
+   <p src="#">github-api-user-profile</p>
+   </a>
+
+   <a href="3" target="_blank"> 
+   <p src="#">nft-card-frontend-mentor</p>
+   </a>
+
+   <a href="3" target="_blank"> 
+   <p src="#">profile-card-frontend-mentor</p>
+   </a>
  
+ <br>
+  
   ### Minhas redes:
  
 <div> 
