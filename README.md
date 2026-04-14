@@ -16,30 +16,13 @@
 
   ### GitHub Pages:
 
-<div align="center" style="display: inline_block"><br>
-<a href="3" target="_blank"> 
-   <p src="#">page-huddle-landing-frontend-mentor</p>
-   </a>
-
-   <a href="3" target="_blank"> 
-   <p src="#">advice-generator-app-frontend-mentor</p>
-   </a>
-
-    <a href="3" target="_blank"> 
-   <p src="#">formulario-com-validacao</p>
-   </a>
-
-   <a href="3" target="_blank"> 
-   <p src="#">github-api-user-profile</p>
-   </a>
-
-   <a href="3" target="_blank"> 
-   <p src="#">nft-card-frontend-mentor</p>
-   </a>
-
-   <a href="3" target="_blank"> 
-   <p src="#">profile-card-frontend-mentor</p>
-   </a>
+<div <!-- align="center" --> style="display: inline_block">
+   <p src="#"><a href="#" target="_blank">page-huddle-landing-frontend-mentor</p>
+   <p src="#"><a href="#" target="_blank">advice-generator-app-frontend-mentor</p>
+   <p src="#"><a href="#" target="_blank">formulario-com-validacao</a></p>
+   <p src="#"><a href="#" target="_blank">github-api-user-profile</p>
+   <p src="#"><a href="#" target="_blank">nft-card-frontend-mentor</p>
+   <p src="#"><a href="#" target="_blank">profile-card-frontend-mentor</p>  
  </div>
  <br>
   
