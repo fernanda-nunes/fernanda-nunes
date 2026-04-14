@@ -14,9 +14,9 @@
    </div>
  <br>
 
-  ### GitHub Pages:
+  ### Minhas GitHub Pages:
 
-<div <!-- align="center" --> style="display: inline_block">
+<div style="display: inline_block">
    <p src="#"><a href="#" target="_blank">page-huddle-landing-frontend-mentor</p>
    <p src="#"><a href="#" target="_blank">advice-generator-app-frontend-mentor</p>
    <p src="#"><a href="#" target="_blank">formulario-com-validacao</a></p>
