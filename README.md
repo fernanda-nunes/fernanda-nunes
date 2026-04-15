@@ -7,7 +7,7 @@
    <img height="170em" src="https://github-readme-stats-eta-seven.vercel.app/api/top-langs/?username=fernanda-nunes&layout=compact&langs_count=200&theme=cobalt&cache_seconds=0&rand=17578"/>
 </div>
     
-<div style="display: flex" flex-direction: "rom" align="center" ><br>
+<div align="center" ><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
