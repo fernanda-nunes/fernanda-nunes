@@ -20,10 +20,11 @@
    <p src="#"><a href="https://fernanda-nunes.github.io/advice-generator-app-frontend-mentor/" target="_blank">advice-generator-app-frontend-mentor</p>
    <p src="#"> <a href="https://fernanda-nunes.github.io/formulario-com-validacao-de-imput/" target="_blank">formulario-com-validacao-de-imput</a> </p>
    <p src="#"><a href="https://fernanda-nunes.github.io/github-api-data-profile/" target="_blank">github-api-data-profile</p>
+   <p src="#"><a href="https://fernanda-nunes.github.io/nft-card-frontend-mentor/" target="_blank">nft-card-component-frontend-mentor</p>
 
   in progress...
    <p src="#"><a href="#" target="_blank">page-huddle-landing-frontend-mentor</p>
-   <p src="#"><a href="#" target="_blank">nft-card-frontend-mentor</p>
+   
    <p src="#"><a href="#" target="_blank">profile-card-frontend-mentor</p>  
  </div>
  <br>
