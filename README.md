@@ -19,7 +19,7 @@
 <div >
    <p src="#"><a href="https://fernanda-nunes.github.io/advice-generator-app-frontend-mentor/" target="_blank">advice-generator-app-frontend-mentor</p>
    <p src="#"> <a href="https://fernanda-nunes.github.io/formulario-com-validacao-de-imput/" target="_blank">Formulário com validação de input</a> </p>
-   <p src="https://fernanda-nunes.github.io/github-api-data-profile/"><a href="#" target="_blank">github-api-data-profile</p>
+   <p src="#"><a href="https://fernanda-nunes.github.io/github-api-data-profile/" target="_blank">github-api-data-profile</p>
 
   in progress...
    <p src="#"><a href="#" target="_blank">page-huddle-landing-frontend-mentor</p>
