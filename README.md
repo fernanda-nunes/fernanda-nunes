@@ -7,7 +7,7 @@
    <img height="170em" src="https://github-readme-stats-eta-seven.vercel.app/api/top-langs/?username=fernanda-nunes&layout=compact&langs_count=200&theme=cobalt&cache_seconds=0&rand=17578"/>
 </div>
     
-<div align="center" style="display: inline_block"><br>
+<div style="display: flex" flex-direction: "rom" align="center" ><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
@@ -16,11 +16,13 @@
 
   ### Minhas GitHub Pages:
 
-<div style="display: inline_block">
-   <p src="#"><a href="#" target="_blank">page-huddle-landing-frontend-mentor</p>
-   <p src="#"><a href="#" target="_blank">advice-generator-app-frontend-mentor</p>
+<div >
+   <p src="#"><a href="https://fernanda-nunes.github.io/advice-generator-app-frontend-mentor/" target="_blank">advice-generator-app-frontend-mentor</p>
    <p src="#"> <a href="https://fernanda-nunes.github.io/formulario-com-validacao-de-imput/" target="_blank">Formulário com validação de input</a> </p>
-   <p src="#"><a href="#" target="_blank">github-api-user-profile</p>
+   <p src="https://fernanda-nunes.github.io/github-api-data-profile/"><a href="#" target="_blank">github-api-data-profile</p>
+
+  in progress...
+   <p src="#"><a href="#" target="_blank">page-huddle-landing-frontend-mentor</p>
    <p src="#"><a href="#" target="_blank">nft-card-frontend-mentor</p>
    <p src="#"><a href="#" target="_blank">profile-card-frontend-mentor</p>  
  </div>
