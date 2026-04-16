@@ -17,16 +17,12 @@
   ### Minhas GitHub Pages:
 
 <div >
-   <p src="#"><a href="https://fernanda-nunes.github.io/advice-generator-app-frontend-mentor/" target="_blank">advice-generator-app-frontend-mentor</p>
-   <p src="#"> <a href="https://fernanda-nunes.github.io/formulario-com-validacao-de-imput/" target="_blank">formulario-com-validacao-de-imput</a> </p>
-   <p src="#"><a href="https://fernanda-nunes.github.io/github-api-data-profile/" target="_blank">github-api-data-profile</p>
-   <p src="#"><a href="https://fernanda-nunes.github.io/huddle-landing-page/" target="_blank">Huddle landing page</p>
-   <p src="#"><a href="https://fernanda-nunes.github.io/nft-card-frontend-mentor/" target="_blank">NFT preview card component</p>
-   
-
-  in progress...
-     
-   <p src="#"><a href="#" target="_blank">profile-card-frontend-mentor</p>  
+   <p src="#"><a href="https://fernanda-nunes.github.io/advice-generator-app/" target="_blank">Advice Generator App</a></p>
+   <p src="#"> <a href="https://fernanda-nunes.github.io/formulario-com-validacao-de-input/" target="_blank">Formulário com validação de input</a></p>
+   <p src="#"><a href="https://fernanda-nunes.github.io/github-api-data-profile/" target="_blank">GitHub API - Data Profile</p>
+   <p src="#"><a href="https://fernanda-nunes.github.io/formulario-com-validacao-de-imput/" target="_blank">Huddle Landing Page</p>
+   <p src="#"><a href="https://fernanda-nunes.github.io/nft-preview-card-component/" target="_blank">NFT Preview Card Component</p>
+   <p src="#"><a href="https://fernanda-nunes.github.io/profile-card/" target="_blank">Profile Card</p>  
  </div>
  <br>
   
