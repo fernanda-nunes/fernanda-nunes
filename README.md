@@ -17,13 +17,15 @@
   ### Minhas GitHub Pages:
 
 <div >
+   <p src="#"><a href="https://fernanda-nunes.github.io/acordeon/" target="_blank">Arcodeon</a></p>
    <p src="#"><a href="https://fernanda-nunes.github.io/advice-generator-app/" target="_blank">Advice Generator App</a></p>
    <p src="#"> <a href="https://fernanda-nunes.github.io/formulario-com-validacao-de-input/" target="_blank">Formulário com validação de input</a></p>
    <p src="#"><a href="https://fernanda-nunes.github.io/github-api-data-profile/" target="_blank">GitHub API - Data Profile</p>
    <p src="#"><a href="https://fernanda-nunes.github.io/formulario-com-validacao-de-imput/" target="_blank">Huddle Landing Page</p>
    <p src="#"><a href="https://fernanda-nunes.github.io/nft-preview-card-component/" target="_blank">NFT Preview Card Component</p>
    <p src="#"><a href="https://fernanda-nunes.github.io/profile-card/" target="_blank">Profile Card</p>  
- </div>
+    <p src="#"><a href="https://fernanda-nunes.github.io/slider/" target="_blank">Slider</a></p>
+
  <br>
   
   ### Minhas redes:
