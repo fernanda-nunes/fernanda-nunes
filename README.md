@@ -17,23 +17,23 @@
   ### Minhas GitHub Pages:
 
 <div >
-   <p src="#"><a href="https://fernanda-nunes.github.io/acordeon/" target="_blank">Arcodeon</a></p>
-   <p src="#"><a href="https://fernanda-nunes.github.io/advice-generator-app/" target="_blank">Advice Generator App</a></p>
-   <p src="#"> <a href="https://fernanda-nunes.github.io/formulario-com-validacao-de-input/" target="_blank">Formulário com validação de input</a></p>
-   <p src="#"><a href="https://fernanda-nunes.github.io/github-api-data-profile/" target="_blank">GitHub API - Data Profile</p>
-   <p src="#"><a href="https://fernanda-nunes.github.io/formulario-com-validacao-de-imput/" target="_blank">Huddle Landing Page</p>
-   <p src="#"><a href="https://fernanda-nunes.github.io/nft-preview-card-component/" target="_blank">NFT Preview Card Component</p>
-   <p src="#"><a href="https://fernanda-nunes.github.io/profile-card/" target="_blank">Profile Card</p>  
-    <p src="#"><a href="https://fernanda-nunes.github.io/slider/" target="_blank">Slider</a></p>
-
+   <a src="#" href="https://fernanda-nunes.github.io/acordeon/" target="_blank">Arcodeon</a> <br>
+   <a src="#" href="https://fernanda-nunes.github.io/advice-generator-app/" target="_blank">Advice Generator App</a><br>
+   <a src="#" href="https://fernanda-nunes.github.io/formulario-com-validacao-de-input/" target="_blank">Formulário com validação de input</a><br>
+   <a src="#" src="#" href="https://fernanda-nunes.github.io/github-api-data-profile/" target="_blank">GitHub API - Data Profile</a><br>
+   <a src="#" href="https://fernanda-nunes.github.io/formulario-com-validacao-de-imput/" target="_blank">Huddle Landing Page</a><br>
+   <a src="#" href="https://fernanda-nunes.github.io/nft-preview-card-component/" target="_blank">NFT Preview Card Component</a><br>
+   <a src="#" href="https://fernanda-nunes.github.io/profile-card/" target="_blank">Profile Card</a><br>  
+    <a src="#" href="https://fernanda-nunes.github.io/slider/" target="_blank">Slider</a><br>
+</div>
  <br>
   
   ### Minhas redes:
  
 <div> 
-  
   <a href="https://instagram.com/fe_onunes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernanda-nunes-5a788466" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
 
 ### Meu contato:
 <a href="https://wa.me/5511997412056" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="32" height="32"/></a>
