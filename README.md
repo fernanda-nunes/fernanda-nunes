@@ -1,4 +1,4 @@
-<h2 align="center">
+ <h2 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Lora&size=35&duration=3000&pause=50&color=8922E9&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Ol%C3%A1!+%F0%9F%91%8B+;Sou+Fernanda+Nunes+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Seja+bem-vindo(a)+!" alt="Typing SVG"/></h2>
 
 <div align="center">
@@ -20,11 +20,12 @@
    <p src="#"><a href="https://fernanda-nunes.github.io/advice-generator-app-frontend-mentor/" target="_blank">advice-generator-app-frontend-mentor</p>
    <p src="#"> <a href="https://fernanda-nunes.github.io/formulario-com-validacao-de-imput/" target="_blank">formulario-com-validacao-de-imput</a> </p>
    <p src="#"><a href="https://fernanda-nunes.github.io/github-api-data-profile/" target="_blank">github-api-data-profile</p>
-   <p src="#"><a href="https://fernanda-nunes.github.io/nft-card-frontend-mentor/" target="_blank">nft-card-component-frontend-mentor</p>
+   <p src="#"><a href="https://fernanda-nunes.github.io/huddle-landing-page/" target="_blank">Huddle landing page</p>
+   <p src="#"><a href="https://fernanda-nunes.github.io/nft-card-frontend-mentor/" target="_blank">NFT preview card component</p>
+   
 
   in progress...
-   <p src="#"><a href="#" target="_blank">page-huddle-landing-frontend-mentor</p>
-   
+     
    <p src="#"><a href="#" target="_blank">profile-card-frontend-mentor</p>  
  </div>
  <br>
