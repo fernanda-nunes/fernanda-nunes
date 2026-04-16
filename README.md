@@ -5,14 +5,16 @@
    <a href="https://github.com/fernanda-nunes">
    <img height="170em" src="https://github-readme-stats-eta-seven.vercel.app/api?username=fernanda-nunes&show_icons=true&include_all_commits=true&line_height=20&theme=cobalt&count_private=true" /><br>
    <img height="170em" src="https://github-readme-stats-eta-seven.vercel.app/api/top-langs/?username=fernanda-nunes&layout=compact&langs_count=200&theme=cobalt&cache_seconds=0&rand=17578"/>
+ </div>
+    <br><br>
+
+ <div  > 
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/></img> <br>
+  
+<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/></img> <br>
+
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></img><br>
 </div>
-    
-<div align="center" ><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
-   </div>
- <br>
 
   ### Minhas GitHub Pages:
 
