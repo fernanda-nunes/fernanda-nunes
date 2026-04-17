@@ -1,13 +1,14 @@
- <h2 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Lora&size=35&duration=3000&pause=50&color=8922E9&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Ol%C3%A1!+%F0%9F%91%8B+;Sou+Fernanda+Nunes+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Seja+bem-vindo(a)+!" alt="Typing SVG"/></h2>
+<div align="center"> 
+<a src="href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=lora&size=35&duration=1000&pause=&color=8922E9&center=true&vCenter=true&multiline=true&width=435&height=160&lines=%F0%9F%91%8B+Ol%C3%A1!+;Sou+Fernanda+Nunes+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Seja+bem-vindo(a)!" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
    <a href="https://github.com/fernanda-nunes">
    <img height="170em" src="https://github-readme-stats-eta-seven.vercel.app/api?username=fernanda-nunes&show_icons=true&include_all_commits=true&line_height=20&theme=cobalt&count_private=true" /><br>
    <img height="170em" src="https://github-readme-stats-eta-seven.vercel.app/api/top-langs/?username=fernanda-nunes&layout=compact&langs_count=200&theme=cobalt&cache_seconds=0&rand=17578"/>
  </div>
- <br><br>
-
+ <br>
+    
  ### Tecnologias:
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
