@@ -6,18 +6,20 @@
    <img height="170em" src="https://github-readme-stats-eta-seven.vercel.app/api?username=fernanda-nunes&show_icons=true&include_all_commits=true&line_height=20&theme=cobalt&count_private=true" /><br>
    <img height="170em" src="https://github-readme-stats-eta-seven.vercel.app/api/top-langs/?username=fernanda-nunes&layout=compact&langs_count=200&theme=cobalt&cache_seconds=0&rand=17578"/>
  </div>
-    <br><br>
+ <br><br>
 
- <div  > 
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/></img> <br>
-  
-<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/></img> <br>
+ ### Tecnologias:
 
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></img><br>
-</div>
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
+<br><br>
+in progress...<br>
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](http://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
+    
   ### Minhas GitHub Pages:
-
 <div >
    <a src="#" href="https://fernanda-nunes.github.io/acordeon/" target="_blank">Arcodeon</a> <br>
    <a src="#" href="https://fernanda-nunes.github.io/advice-generator-app/" target="_blank">Advice Generator App</a><br>
@@ -28,8 +30,12 @@
    <a src="#" href="https://fernanda-nunes.github.io/profile-card/" target="_blank">Profile Card</a><br>  
     <a src="#" href="https://fernanda-nunes.github.io/slider/" target="_blank">Slider</a><br>
 </div>
- <br>
-  
+
+### Meu contato:
+
+<a href="https://wa.me/5511997412056" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="32" height="32"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=fe.onunes@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="32" height="32"/></a>
+
   ### Minhas redes:
  
 <div> 
@@ -37,9 +43,7 @@
   <a href="https://www.linkedin.com/in/fernanda-nunes-5a788466" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
-### Meu contato:
-<a href="https://wa.me/5511997412056" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="32" height="32"/></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=fe.onunes@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="32" height="32"/></a>
+
 
 ![snake gif](https://github.com/ILeonardo-Lima/ILeonardo-Lima/blob/output/github-contribution-grid-snake.svg)
 
