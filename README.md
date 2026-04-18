@@ -25,12 +25,12 @@ in progress...<br>
    <a src="#" href="https://fernanda-nunes.github.io/acordeon/" target="_blank">Arcodeon</a> <br>
    <a src="#" href="https://fernanda-nunes.github.io/advice-generator-app/" target="_blank">Advice Generator App</a><br>
    <a src="#" href="https://fernanda-nunes.github.io/formulario-com-validacao-de-input/" target="_blank">Formulário com validação de input</a><br>
-   <a src="#" src="#" href="https://fernanda-nunes.github.io/github-api-data-profile/" target="_blank">GitHub API - Data Profile</a><br>
-   <a src="#" href="https://fernanda-nunes.github.io/formulario-com-validacao-de-imput/" target="_blank">Huddle Landing Page</a><br>
-    <a src="#" href="https://fernanda-nunes.github.io/menu-page-the-bank/" target="_blank">Menu Page - thebank</a><br>
+   <a src="#" href="https://fernanda-nunes.github.io/github-api-data-profile/" target="_blank">GitHub API - Data Profile</a><br>
+   <a src="#" href="https://fernanda-nunes.github.io/huddle-landing-page/" target="_blank">Huddle Landing Page</a><br>
+   <a src="#" href="https://fernanda-nunes.github.io/menu-page-the-bank/" target="_blank">Menu Page - thebank</a><br>
    <a src="#" href="https://fernanda-nunes.github.io/nft-preview-card-component/" target="_blank">NFT Preview Card Component</a><br>
    <a src="#" href="https://fernanda-nunes.github.io/profile-card/" target="_blank">Profile Card</a><br>  
-    <a src="#" href="https://fernanda-nunes.github.io/slider/" target="_blank">Slider</a><br>
+   <a src="#" href="https://fernanda-nunes.github.io/slider/" target="_blank">Slider</a><br>
 </div>
 
 ### Meu contato:
