@@ -22,7 +22,7 @@ in progress...<br>
     
   ### Minhas GitHub Pages:
 <div>
-   <a src="#" href="https://fernanda-nunes.github.io/acordeon/" target="_blank">Arcodeon Page</a> <br>
+   <a src="#" href="https://fernanda-nunes.github.io/acordeon-page/" target="_blank">Arcodeon Page</a> <br>
    <a src="#" href="https://fernanda-nunes.github.io/advice-generator-app/" target="_blank">Advice Generator App</a><br>
    <a src="#" href="https://fernanda-nunes.github.io/formulario-com-validacao-de-input/" target="_blank">Formulário com validação de input</a><br>
    <a src="#" href="https://fernanda-nunes.github.io/github-api-data-profile/" target="_blank">GitHub API - Data Profile</a><br>
@@ -32,7 +32,7 @@ in progress...<br>
    <a src="#" href="https://fernanda-nunes.github.io/nft-preview-card-component/" target="_blank">NFT Preview Card Component</a><br>
    <a src="#" href="https://fernanda-nunes.github.io/pictures-list-page/" target="_blank">Pictures List Page</a><br>
    <a src="#" href="https://fernanda-nunes.github.io/profile-card/" target="_blank">Profile Card</a><br>  
-   <a src="#" href="https://fernanda-nunes.github.io/slider/" target="_blank">Slider Page</a><br>
+   <a src="#" href="https://fernanda-nunes.github.io/slider-page/" target="_blank">Slider Page</a><br>
 </div>
 
 ### Meu contato:
