@@ -24,6 +24,7 @@ in progress...<br>
 <div>
    <a src="#" href="https://fernanda-nunes.github.io/acordeon-page/" target="_blank">Arcodeon Page</a> <br>
    <a src="#" href="https://fernanda-nunes.github.io/advice-generator-app/" target="_blank">Advice Generator App</a><br>
+   <a src="#" href="https://fernanda-nunes.github.io/ecommerce-syntaxwear/" target="_blank">e-commerce SyntaxWear</a><br>
    <a src="#" href="https://fernanda-nunes.github.io/formulario-com-validacao-de-input/" target="_blank">Formulário com validação de input</a><br>
    <a src="#" href="https://fernanda-nunes.github.io/github-api-data-profile/" target="_blank">GitHub API - Data Profile</a><br>
    <a src="#" href="https://fernanda-nunes.github.io/huddle-landing-page/" target="_blank">Huddle Landing Page</a><br>
